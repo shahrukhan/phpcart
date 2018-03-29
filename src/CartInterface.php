@@ -1,5 +1,5 @@
 <?php
-namespace Anam\Phpcart;
+namespace Shahrukhan\Phpcart;
 
 interface CartInterface
 {

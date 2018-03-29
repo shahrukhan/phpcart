@@ -1,5 +1,5 @@
 <?php 
-namespace Anam\Phpcart;
+namespace Shahrukhan\Phpcart;
 
 use Illuminate\Support\Collection as IlluminateCollection;
 use Exception;

@@ -1,5 +1,5 @@
 <?php
-namespace Anam\Phpcart\Facades;
+namespace Shahrukhan\Phpcart\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

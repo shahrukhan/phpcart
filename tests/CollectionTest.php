@@ -1,9 +1,9 @@
 <?php
 
-namespace Anam\Phpcart\Tests;
+namespace Shahrukhan\Phpcart\Tests;
 
 use Exception;
-use Anam\Phpcart\Collection;
+use Shahrukhan\Phpcart\Collection;
 use PHPUnit\Framework\TestCase;
 
 class CollectionTest extends TestCase

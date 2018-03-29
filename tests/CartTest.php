@@ -1,10 +1,10 @@
 <?php
 
-namespace Anam\Phpcart\Tests;
+namespace Shahrukhan\Phpcart\Tests;
 
 use Exception;
 use InvalidArgumentException;
-use Anam\Phpcart\Cart;
+use Shahrukhan\Phpcart\Cart;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\HttpFoundation\Session\Storage\MockArraySessionStorage;
 

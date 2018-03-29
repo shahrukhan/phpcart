@@ -1,5 +1,5 @@
 <?php
-namespace Anam\Phpcart;
+namespace Shahrukhan\Phpcart;
 
 use Exception;
 use InvalidArgumentException;
@@ -311,7 +311,7 @@ class Cart implements CartInterface
     public function copy($cart)
     {
         if (is_object($cart)) {
-            if (! $cart instanceof \Anam\Phpcart\Cart) {
+            if (! $cart instanceof \Shahrukhan\Phpcart\Cart) {
                 throw new InvalidArgumentException("Argument must be an instance of " . get_class($this));
             }
 
