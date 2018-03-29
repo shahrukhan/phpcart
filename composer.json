@@ -1,15 +1,24 @@
 {
     "name": "shahrukhan/phpcart",
-    "description": "phpcart package for my app",
+    "description": "edited anam php cart for different project",
     "keywords": [
         "Cart",
         "php cart",
         "Shopping cart",
         "Laravel shopping cart",
-        "Laravel cart"
+        "Laravel cart",
+        "shahrukhan"
+    ],
+    "homepage": "https://github.com/shahrukhan/phpcart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shahrukh Khan",
+            "email": "shahrukhkhan_shah@yahoo.com"
+        }
     ],
     "require": {
-    	"php": ">=5.4.0",
+        "php": ">=5.4.0",
         "symfony/http-foundation": "~2.0",
         "illuminate/support": "~5.0"
     },
@@ -18,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "shahrukhan\\Phpcart\\" : "src/" 
+            "Shahrukhan\\Phpcart\\" : "src/" 
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "shahrukhan\\Phpcart\\Test\\": "tests"
+            "Shahrukhan\\Phpcart\\Test\\": "tests"
         }
     }
 }
